@@ -2,7 +2,7 @@
 
 Setup: Install XAMPP & its dependecies to run the PHP & MySQL scripts in your localhost web browser. 
 
-Link to website: 
+Link to website: (Please refresh the 2nd page if you do not see the user output right away). 
 
 Inspiration: Technical problem to test my front-end skills using databases. 
 
