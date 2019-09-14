@@ -69,7 +69,7 @@
 			$venue = mysqli_real_escape_string($conn, $_POST['venue']);
 
 			// create sql
-			$sql = "INSERT INTO entries(company,name,venue) VALUES('$company','$name','$venue')";
+			$sql = "INSERT INTO bookings(company,name,venue) VALUES('$company','$name','$venue')";
 
 			// save to db and check
 			if(mysqli_query($conn, $sql)){
