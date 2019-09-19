@@ -1,6 +1,6 @@
 # Entr-Code-Challenge
 
-Setup: Install XAMPP & its dependencies to run PHP & MySQL in your localhost web browser. 
+<b>Setup<b>: Install XAMPP & its dependencies to run PHP & MySQL in your localhost web browser. 
 
 Link to view website demo: https://youtu.be/i6Sh-5wl0Ro
 
